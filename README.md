@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sai tej porala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai tej porala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saitp" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saitp99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saitp99" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/saitp99/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saitp99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
